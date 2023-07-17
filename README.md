@@ -2,6 +2,6 @@
 
 Npm Install
 
-configure sql database in uitl->database.js
+Configure sql database in    util->database.js
 
 Npm start
